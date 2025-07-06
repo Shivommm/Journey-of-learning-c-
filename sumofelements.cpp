@@ -1,7 +1,7 @@
 //Calculate and print the sum of all array elements.
 #include <iostream>
 using namespace std;
-void FunWidArray(){
+void FunWidnotArray(){
     int n;
     cout<<"Enter Length of The ARRAY: ";
     cin>>n;
@@ -19,6 +19,6 @@ void FunWidArray(){
     
 }
 int main(){
-    FunWidArray();
+    FunWidnotArray();
     return 0;
 }
