@@ -1,6 +1,6 @@
 //Input 5 integers into an array and print them using a loop.
 #include <iostream>
-using namespace std;
+using namespace std;//
 void ArrayFun(){
     int n;
     int arr[n];
